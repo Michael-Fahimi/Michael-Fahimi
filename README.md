@@ -11,7 +11,7 @@ I love developing new projects and learning new technologies from everyday chall
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/michaelfahimi/"><img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Michael | LinkedIn" width="30px"/></a>
-<a href="mailto:brasouly@uoguelph.ca"><img align="left" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Apple-Mailto | Benyamin" width="30px"/></a>
+<a href="mailto:mclfahimi@gmail.com"><img align="left" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Apple-Mailto | Michael" width="30px"/></a>
 </br>
 </br>
 
@@ -21,7 +21,8 @@ I love developing new projects and learning new technologies from everyday chall
  
 
 ## 💼 Technical Skills
-
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=Kotlin&color=61DAFB)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=Kotlin&color=61DAFB)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
