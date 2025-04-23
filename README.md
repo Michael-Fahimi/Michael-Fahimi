@@ -21,15 +21,16 @@ I love developing new projects and learning new technologies from everyday chall
  
 
 ## 💼 Technical Skills
-![](https://img.shields.io/static/v1?label=android&message=android&labelColor=3DDC84&color=24292F&logo=android&logoColor=white)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&color=61DAFB)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&color=61DAFB)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&color=003B57)
+
+
+![Kotlin](https://img.shields.io/badge/Code-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Code-Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Web-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/Web-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/Web-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<br>
+
 
 </br>
 
