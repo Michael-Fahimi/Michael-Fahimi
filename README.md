@@ -23,6 +23,7 @@ I love developing new projects and learning new technologies from everyday chall
 ## 💼 Technical Skills
 ![](https://img.shields.io/static/v1?label=android&message=android&labelColor=3DDC84&color=24292F&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&color=61DAFB)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&color=61DAFB)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
