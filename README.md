@@ -1,5 +1,5 @@
 <h3 align="center">
-Hi there, I'm <a href="https://www.benyaminrsl.com/" target="_blank" rel="noreferrer">Sina Michael Fahimi</a> 👋
+Hi there, I'm <a href="https://michaelfahimi.vercel.app/" target="_blank" rel="noreferrer">Sina Michael Fahimi</a> 👋
 </h3>
 
 <h2 align="center">
@@ -10,7 +10,6 @@ I love developing new projects and learning new technologies from everyday chall
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/michaelfahimi/"><img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Michael | LinkedIn" width="30px"/></a>
 <a href="mailto:mclfahimi@gmail.com"><img align="left" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Apple-Mailto | Michael" width="30px"/></a>
 </br>
 </br>
