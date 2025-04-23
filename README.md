@@ -10,7 +10,7 @@ I love developing new projects and learning new technologies from everyday chall
 
 ### 🤝 Connect with me:
 
-<a href="https://michaelfahimi.vercel.app/"><img align="left" src="https://img.icons8.com/color/48/000000/googlechrome.png" alt="Michael | Website" width="30px"/></a>
+<a href="https://michaelfahimi.vercel.app/"><img align="left" src="https://img.icons8.com/color/48/000000/googlechrome" alt="Michael | Website" width="30px"/></a>
 <a href="mailto:mclfahimi@gmail.com"><img align="left" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Apple-Mailto | Michael" width="30px"/></a>
 </br>
 </br>
