@@ -3,7 +3,7 @@ Hi there, I'm <a href="https://michaelfahimi.vercel.app/" target="_blank" rel="n
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻 and Designer 🎨!
+I'm a Full-Stack Software Developer 💻 and Designer 🎨!
 </h2> 
 
 I love developing new projects and learning new technologies from everyday challenges. I'm always excited about meeting new people and joining communities!
